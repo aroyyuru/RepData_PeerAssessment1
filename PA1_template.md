@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>RepData_PeerAssessment1/PA1_template.Rmd at master · aroyyuru/RepData_PeerAssessment1</title>
+    <title>RepData_PeerAssessment1/PA1_template.md at master · aroyyuru/RepData_PeerAssessment1</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -24,7 +24,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTM2MzExNjk6OTBlNTAxNjMyYzY3NjY5ODA0Y2I4NTAyOWU4MmZmMjk6Y2E3MmMwYjJlY2IxMTgxMDgzNzRhM2U3ZjJjOTAzMDllMzcyNzYxOGI1NWVkMDJmNjViYTNjNGVkODQ5YWFmNQ==--716ff410f4cfbc1163a932e27dded0aeb2cc2da2">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTM2MzExNjk6OTBlNTAxNjMyYzY3NjY5ODA0Y2I4NTAyOWU4MmZmMjk6MjhjYzY5NzM4MGVmOTEyYjY0ODY5ZGIzZDJiNmIxYjdmYWE3NDkzZjBiNDExMjZmZGZmOTFkODBjMTZkZDI2NA==--5c2cf565b408bccfbcfd17da0e7dee54bd3b7864">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -35,7 +35,7 @@
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="6CD5D357:7D83:7084474:55FF15C8" name="octolytics-dimension-request_id" /><meta content="13631169" name="octolytics-actor-id" /><meta content="aroyyuru" name="octolytics-actor-login" /><meta content="0c111dd750dd248d326cf2a9f3ad0f027c1c684c6eeef80b58925da34f40004e" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="6CD5D357:54D8:1A2325B:55FF15D7" name="octolytics-dimension-request_id" /><meta content="13631169" name="octolytics-actor-id" /><meta content="aroyyuru" name="octolytics-actor-login" /><meta content="0c111dd750dd248d326cf2a9f3ad0f027c1c684c6eeef80b58925da34f40004e" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
@@ -48,7 +48,7 @@
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
     <!-- </textarea> --><!-- '"` --><meta content="authenticity_token" name="csrf-param" />
-<meta content="b5/zTh9WJ1sKNB+1cLG+pO9ony8cAe7bEzD02i5UefcKcwaIEMvDckWMehh/RHXTch4ipzKm6o9ruaVPdNO+MQ==" name="csrf-token" />
+<meta content="xCalMde5Hu3jdvUSvEJc+pLjDGbr2W0u7DiTBj+4HJH6sKWPb/bJluaHTj5c5wHfj+Ed4Smc1buJ0EjWPSj7ng==" name="csrf-token" />
     <meta content="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" name="form-nonce" />
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-aef3088517c60128e10c5cce8d392985504018745a58a13691f1a278951852bb.css" integrity="sha256-rvMIhRfGASjhDFzOjTkphVBAGHRaWKE2kfGieJUYUrs=" media="all" rel="stylesheet" />
@@ -198,7 +198,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Kyk0iU/03oyBL82RCRGZM58H11Qo3TgKG4KC7MwsWznPBiGGzv4DMtef7FVXDFO/S80yMo9zVBzjVr5TRoZO2w==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rxC6jBF3fw3sww7TZImrVV4D0diOeyY2ue1T1ZuzY0rbAdKsDUPKf85rExzoxCk0pR8nARqsaAdSyJnQe3MekQ==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -234,7 +234,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KTHUHq1A4eerCQkeVHpfVU/3N94Snmj83GGVKwL/0QxQMAZTokpDQDgxPd4ekJ9dEEYf6rhKJU69kqU2I37lRg==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="22786382" />
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AF4zLyx2dTsKCs83z3onkeNbIgVYrG3k7qulrBda9gKyE/5btIstvMcUi1gKjCTee63kSBRXaFe55RONu+7mGA==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="22786382" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/aroyyuru/RepData_PeerAssessment1/subscription"
@@ -309,7 +309,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DqCe4JZIHE9n6DXvo6j5pbT+mG4I2FDX1R5bnPiua57tFEms+huS8puNfKM100SzB3022zm412bXhBdpuMHxeg==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IbK1SG+p5YBEiaVt8S81EoNf3rOlsMtaObzabHyGryrEjEkdsZIp/IYZ/autL70y9RzhdKDDkx4nICMdwa7XCw==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar aroyyuru/RepData_PeerAssessment1"
@@ -321,7 +321,7 @@
           0
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wtRS8Jf2pxelRqdLCgLUDPzkp4HJ6QiYaBYMFzFNc0wLTKB7ejz7yi0xM5ptn+v7o+R7W+Ae5dQl2N8n6rrzJw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Z3F3KEozUw+XiXLpoqIOfP/mHmiTu/FTMmLG/ITKQbtj83wrt79TJNtcSAWf4SKq+4pNGY4L5ORXQG4H7x+L2Q==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star aroyyuru/RepData_PeerAssessment1"
@@ -337,7 +337,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/fork" class="btn-with-count" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+sIqq7QVWDrrnCaYpzqpEh49jB+DR0s+OZBmWuMH4OLkGNw8aVMcc3KLHDdYrOVGCofYaclviPuOaZGlkk5Q6Q==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/fork" class="btn-with-count" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AjY8zAtLU1G0D6CpMVZHvJmT8pnBcrEW1UjPoMQGfRUYr3j3gxnfMtLuIxE8vnQRg7xdjilydmcI/eBgYPa8DA==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -467,7 +467,7 @@
 
 
 <div class="clone-options">You can clone with
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uHsa3glmWde/fRSII/OrfiB0p9000i4i7zAejQgFaL7WnHX6GsJzG14TBn1Zuh/gPoeX6OKg04VRiLkF3Xp5rQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Q1tvJpUk5RIYDTHORDeZXlLRL/wXj18IN6NYyWJVUGbso+4xuflMl0l/uUxMOo78Enf23Vu+R83VO3MactK+DQ==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TjYxAnSlTpR8QpZe2pxrIfCojhzcO7/Xqzn0b7oA8aya6HjHXXy8qDobapbM57kpl7OJUjArf2vNMPS9ZKOqmg==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CzghjZyUbhrmHe0t6bRtJ2/zT5mZhtgvM76MGLm2jWx1BSK+xwLrSYJZRzWfh1EHvO2O+MGZBjj6r6sKm6bSTg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="W7opWcIVxHWniS3dFcxyhZI9+cI5aqPM0sW2glzKsxJffz/LaBqsJFqMr3LlUGo3o5zUByfhdqvXzAkmmmkRDw==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Yy3zvIvJfhL+GuIHwTO7Zv5SxPaCajWoeV4xBzP5N4TkL5gahOXE3SBTCXseeADe/srDYEcWXcyDzV8tA1d7sA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -491,9 +491,9 @@
 
           
 
-<a href="/aroyyuru/RepData_PeerAssessment1/blob/f2f7cc8f6ac83af68036d6702d27f87d77ea72c8/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/aroyyuru/RepData_PeerAssessment1/blob/f2f7cc8f6ac83af68036d6702d27f87d77ea72c8/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:b97e4374aae14fc6fda11abca2da6051 -->
+<!-- blob contrib key: blob_contributors:v21:dbdcf1cd4538a6f5d9e420dfb4dd7090 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -536,7 +536,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/aroyyuru/RepData_PeerAssessment1/blob/master/PA1_template.Rmd"
+               href="/aroyyuru/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -575,7 +575,7 @@
     </div>
 
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/aroyyuru/RepData_PeerAssessment1" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/aroyyuru/RepData_PeerAssessment1" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
     </div>
   </div>
 
@@ -615,24 +615,24 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/aroyyuru/RepData_PeerAssessment1/raw/master/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/aroyyuru/RepData_PeerAssessment1/blame/master/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/aroyyuru/RepData_PeerAssessment1/commits/master/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/aroyyuru/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/aroyyuru/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/aroyyuru/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
       <a class="octicon-btn tooltipped tooltipped-nw"
-         href="github-windows://openRepo/https://github.com/aroyyuru/RepData_PeerAssessment1?branch=master&amp;filepath=PA1_template.Rmd"
+         href="github-windows://openRepo/https://github.com/aroyyuru/RepData_PeerAssessment1?branch=master&amp;filepath=PA1_template.md"
          aria-label="Open this file in GitHub Desktop"
          data-ga-click="Repository, open with desktop, type:windows">
           <span class="octicon octicon-device-desktop"></span>
       </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/edit/master/PA1_template.Rmd" class="inline-form js-update-url-with-hash" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="agbRg4z1PoC8Pe0UKPdLRDgG97asa4i9Tknb3l2b2gvMcJ8sgWHGk1Zj9K9n1VHHHXcSjL66Qk5ga+lrhafxWw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/edit/master/PA1_template.md" class="inline-form js-update-url-with-hash" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VorElzwRmzMVifBEzVxUuho6tsF03pre7lBLexHWCqYWwEWCg/9zMl/a+OFeTWkl0krr4bA4sZBTV2Ekv3XtHQ==" /></div>
           <button class="octicon-btn tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <span class="octicon octicon-pencil"></span>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/delete/master/PA1_template.Rmd" class="inline-form" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gwF2VjXT9D4hAWrXDPtKRUZInDsVgpqH0lshrG+sSVJryy/xV3cOXz463QMMQMrwASt9eNHlQclF+lje5qFZ2A==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/aroyyuru/RepData_PeerAssessment1/delete/master/PA1_template.md" class="inline-form" data-form-nonce="dd64c790e1aedcb7c3bd7c4ef4eb98b1710706b2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6yOdLaW3XukmZUGsXpCUpN5e8OcHoeqChmZtY8imBMNwJ+++i06OZUFOt2tPOLPrzAauBtt0h+tWGDHmtIC2nw==" /></div>
           <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <span class="octicon octicon-trashcan"></span>
@@ -640,9 +640,9 @@
 </form>  </div>
 
   <div class="file-info">
-      223 lines (158 sloc)
+      292 lines (206 sloc)
       <span class="file-info-divider"></span>
-    7.31 KB
+    8.67 KB
   </div>
 </div>
 
@@ -691,9 +691,29 @@ rm(<span class="pl-v">list</span><span class="pl-k">=</span>ls(<span class="pl-v
 <p>Next, I will read this data into a dataframe and inspect the structure of the data</p>
 
 <div class="highlight highlight-source-r"><pre><span class="pl-v">dat</span> <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">'</span>activity.csv<span class="pl-pds">'</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>)
-names(<span class="pl-smi">dat</span>)
-str(<span class="pl-smi">dat</span>)
-head(<span class="pl-smi">dat</span>)</pre></div>
+names(<span class="pl-smi">dat</span>)</pre></div>
+
+<pre><code>## [1] "steps"    "date"     "interval"
+</code></pre>
+
+<div class="highlight highlight-source-r"><pre>str(<span class="pl-smi">dat</span>)</pre></div>
+
+<pre><code>## 'data.frame':    17568 obs. of  3 variables:
+##  $ steps   : int  NA NA NA NA NA NA NA NA NA NA ...
+##  $ date    : Factor w/ 61 levels "2012-10-01","2012-10-02",..: 1 1 1 1 1 1 1 1 1 1 ...
+##  $ interval: int  0 5 10 15 20 25 30 35 40 45 ...
+</code></pre>
+
+<div class="highlight highlight-source-r"><pre>head(<span class="pl-smi">dat</span>)</pre></div>
+
+<pre><code>##   steps       date interval
+## 1    NA 2012-10-01        0
+## 2    NA 2012-10-01        5
+## 3    NA 2012-10-01       10
+## 4    NA 2012-10-01       15
+## 5    NA 2012-10-01       20
+## 6    NA 2012-10-01       25
+</code></pre>
 
 <h3><a id="user-content-histogram-mean--median" class="anchor" href="#histogram-mean--median" aria-hidden="true"><span class="octicon octicon-link"></span></a>Histogram, Mean &amp; Median</h3>
 
@@ -744,6 +764,8 @@ head(<span class="pl-smi">dat</span>)</pre></div>
 
 gen_hist(<span class="pl-smi">dat_tbl_summary</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>, <span class="pl-s"><span class="pl-pds">'</span>Number of Steps Taken Per Day<span class="pl-pds">'</span></span>)</pre></div>
 
+<p><a href="/aroyyuru/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-3.png" target="_blank"><img src="/aroyyuru/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-3.png" alt="plot of chunk unnamed-chunk-3" style="max-width:100%;"></a> </p>
+
 <h3><a id="user-content-daily-activity-pattern" class="anchor" href="#daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>Daily Activity Pattern</h3>
 
 <hr>
@@ -781,8 +803,9 @@ legend(<span class="pl-s"><span class="pl-pds">"</span>topright<span class="pl-p
        <span class="pl-v">legend</span> <span class="pl-k">=</span> <span class="pl-smi">max_lab</span>,
        <span class="pl-v">text.col</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>red<span class="pl-pds">'</span></span>,
        <span class="pl-v">bty</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>n<span class="pl-pds">'</span></span>
-       )
-</pre></div>
+       )</pre></div>
+
+<p><a href="/aroyyuru/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-4.png" target="_blank"><img src="/aroyyuru/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-4.png" alt="plot of chunk unnamed-chunk-4" style="max-width:100%;"></a> </p>
 
 <hr>
 
@@ -793,6 +816,9 @@ legend(<span class="pl-s"><span class="pl-pds">"</span>topright<span class="pl-p
 </ol>
 
 <div class="highlight highlight-source-r"><pre>sum(is.na(<span class="pl-smi">dat</span><span class="pl-k">$</span><span class="pl-smi">steps</span>))</pre></div>
+
+<pre><code>## [1] 2304
+</code></pre>
 
 <ol>
 <li><p>Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.</p></li>
@@ -823,15 +849,28 @@ setkey(<span class="pl-smi">dat_tbl_summary_intv</span>, <span class="pl-smi">in
 <span class="pl-c">#preview new dataset</span>
 head(<span class="pl-smi">dat_tbl_summary_miss</span>)</pre></div>
 
+<pre><code>##          date new_steps
+## 1: 2012-10-01     10766
+## 2: 2012-10-02       126
+## 3: 2012-10-03     11352
+## 4: 2012-10-04     12116
+## 5: 2012-10-05     13294
+## 6: 2012-10-06     15420
+</code></pre>
+
 <ol>
 <li> Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?</li>
 </ol>
 
 <p><strong>Note: Mean and Median Are Reported In Legend Of Histogram</strong></p>
 
-<div class="highlight highlight-source-r"><pre>gen_hist(<span class="pl-smi">dat_tbl_summary</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>, <span class="pl-s"><span class="pl-pds">'</span>Missing Values Removed<span class="pl-pds">'</span></span>)
-gen_hist(<span class="pl-smi">dat_tbl_summary_miss</span><span class="pl-k">$</span><span class="pl-smi">new_steps</span>, <span class="pl-s"><span class="pl-pds">'</span>Missing Values Replaced With <span class="pl-cce">\n</span> Mean For Interval<span class="pl-pds">'</span></span>)
-</pre></div>
+<div class="highlight highlight-source-r"><pre>gen_hist(<span class="pl-smi">dat_tbl_summary</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>, <span class="pl-s"><span class="pl-pds">'</span>Missing Values Removed<span class="pl-pds">'</span></span>)</pre></div>
+
+<p><a href="/aroyyuru/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-71.png" target="_blank"><img src="/aroyyuru/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-71.png" alt="plot of chunk unnamed-chunk-7" style="max-width:100%;"></a> </p>
+
+<div class="highlight highlight-source-r"><pre>gen_hist(<span class="pl-smi">dat_tbl_summary_miss</span><span class="pl-k">$</span><span class="pl-smi">new_steps</span>, <span class="pl-s"><span class="pl-pds">'</span>Missing Values Replaced With <span class="pl-cce">\n</span> Mean For Interval<span class="pl-pds">'</span></span>)</pre></div>
+
+<p><a href="/aroyyuru/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-72.png" target="_blank"><img src="/aroyyuru/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-72.png" alt="plot of chunk unnamed-chunk-7" style="max-width:100%;"></a> </p>
 
 <p><strong>Answer To Question:</strong>
 The mean and the median are now almost the same after replacing missing values with the mean value for the relevant interval. It makes sense that the median value would now move closer to the mean. So the Median value increased after this method of missing value replacement.</p>
@@ -866,6 +905,13 @@ The mean and the median are now almost the same after replacing missing values w
 <span class="pl-c">#inspect dataset</span>
 str(<span class="pl-smi">dat_tbl_summary_miss</span>)</pre></div>
 
+<pre><code>## Classes 'data.table' and 'data.frame':   576 obs. of  3 variables:
+##  $ interval : int  0 0 5 5 10 10 15 15 20 20 ...
+##  $ daytype  : Factor w/ 2 levels "Weekday","Weekend": 1 2 1 2 1 2 1 2 1 2 ...
+##  $ avg_steps: num  2.2512 0.2146 0.4453 0.0425 0.1732 ...
+##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;
+</code></pre>
+
 <p>Below is the panel plot:</p>
 
 <div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">lattice</span>)
@@ -874,6 +920,8 @@ xyplot(<span class="pl-smi">avg_steps</span><span class="pl-k">~</span><span cla
       <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Interval<span class="pl-pds">'</span></span>,
       <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Number of Steps<span class="pl-pds">'</span></span>,
       <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>))</pre></div>
+
+<p><a href="/aroyyuru/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-9.png" target="_blank"><img src="/aroyyuru/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-9.png" alt="plot of chunk unnamed-chunk-9" style="max-width:100%;"></a> </p>
 </article>
   </div>
 
@@ -912,7 +960,7 @@ xyplot(<span class="pl-smi">avg_steps</span><span class="pl-k">~</span><span cla
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.07679s from github-fe128-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.07438s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -948,5 +996,4 @@ xyplot(<span class="pl-smi">avg_steps</span><span class="pl-k">~</span><span cla
     </div>
   </body>
 </html>
-
 
